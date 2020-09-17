@@ -1,6 +1,6 @@
 # RoofStock Case Study
 ## Overview and Origin
-###Roofstock
+### Roofstock
 * Roofstock was founded in 2015 by Gregor Watson, Gary Beasley, and Rich Ford. Roofstock co-founder Gregor Watson's main reason for creating Roofstock was to establish an easier and more effiecnt process of buying and selling investment properties. Roofstock is seris funded
 ---
 ## Business Activites: 
