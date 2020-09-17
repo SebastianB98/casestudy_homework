@@ -8,7 +8,7 @@
 + The main purpose of Roofstock is to create a platform that makes it easier for first time real estate investors to buy and sell single family.
 ###  Who is the company's intended customer? Is there any information about the market size of this set of customers? What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 + The target demographic for Roofstock are first time Real estate investors. 
-+ According to [Roofstock](https://learn.roofstock.com/press/roofstock-doubles-investor-base) the number of investors in roofstock grew 126% in 2018 and is continuing to grow even faster as of 2019. According to [Business Wire] (https://www.businesswire.com/news/home/20200108005565/en/%C2%A0Roofstock-Closes-50-Million-Series-Funding) Roofstocks latest series funding round ended with $133 million dollars in raised equity. 
++ According to [Roofstock](https://learn.roofstock.com/press/roofstock-doubles-investor-base) the number of investors in roofstock grew 126% in 2018 and is continuing to grow even faster as of 2019. According to [Business Wire](https://www.businesswire.com/news/home/20200108005565/en/%C2%A0Roofstock-Closes-50-Million-Series-Funding) Roofstocks latest series funding round ended with $133 million dollars in raised equity. 
 + One of the advantages to investing in roofstock is it makes it easier to purchase single family homes or even pieces of ownership to a house. They are even able to purchase a house with tenants already residing at the property, which allows roofstock to market the ability to start generating income from day one. 
 ###  What technologies are they currently using, and how are they implementing them? 
 * The Application & Data Technologies Roofstock uses are:
@@ -60,7 +60,7 @@
 ### What are some of the core metrics that companies in this domain use to measure success? How is your company performing based on these metrics
 * One of the core metrics Roofstock uses to evalute success would have to be the number of new investors. Based on 2018 reports Roofstock had an increase of 126% in new investors in 2018 and increasing rapid during the first half of 2019.
 ### How is your company performing relative to competitors in the same domain?
- * According to [Businesswire] (https://www.businesswire.com/news/home/20191217005552/en/Roofstock-Surpasses-2-Billion-Property-Transactions-Increases) 'Entrepreneur Magazine naming Roofstock as a 2019 Entrepreneur 360 award winner.' 
+ * According to [Businesswire](https://www.businesswire.com/news/home/20191217005552/en/Roofstock-Surpasses-2-Billion-Property-Transactions-Increases) 'Entrepreneur Magazine naming Roofstock as a 2019 Entrepreneur 360 award winner.' 
 ---
 ## Recommendations
 ### If you were to adivse the company, what products or services would you suggest they offer?
